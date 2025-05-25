@@ -1,0 +1,22 @@
+{
+    "type": "csu:mind_world_type",
+    "generator": {
+      "type": "minecraft:flat",
+      "settings": {
+        "biome": "minecraft:plains",
+        "layers": [
+          {
+            "height": 1,
+            "block": "minecraft:bedrock"
+          },
+          {
+            "height": 7,
+            "block": "minecraft:smooth_stone"
+          }
+        ],
+        "lakes": false,
+        "features": false,
+        "structure_overrides": []
+      }
+    }
+  }
