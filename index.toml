@@ -129,7 +129,7 @@ file = "kubejs/startup_scripts/register/custom/creativetab/csu_tab.js"
 hash = "810f437ffc73560fb9a1abce789f15083e50de0d1c169f04be943ea41562737e"
 
 [[files]]
-file = "kubejs/startup_scripts/register/custom/id_card.js"
+file = "kubejs/startup_scripts/register/custom/item/id_card.js"
 hash = "f5871516997814efaa0a8e799a4c517c6bd906ebed742193817a7fc4b6403da7"
 
 [[files]]
