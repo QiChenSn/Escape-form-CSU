@@ -1,0 +1,181 @@
+hash-format = "sha256"
+
+[[files]]
+file = "README.md"
+hash = "c1f8e90061e8eb80e2f7c15b96eb22b7894709e6548b220df1ff2b51ce86c201"
+
+[[files]]
+file = "config/fml.toml"
+hash = "386fd1923f100e01590b2fd98f6e2149a72b6e668f98e7122b0377d23dbda5c8"
+
+[[files]]
+file = "config/forge-client.toml"
+hash = "0b1b3c45343435184c9dde3149b38afcdb97953e287686ecda54385f53ebcddc"
+
+[[files]]
+file = "config/ftbquests/quests/chapter_groups.snbt"
+hash = "80aed5e1578809037947295c415ce8fbebb6e07f9e4c93808f7f835813a377db"
+
+[[files]]
+file = "config/ftbquests/quests/data.snbt"
+hash = "3271e3ae3a8cb8d80fbf88222b5530005cf690ec1b6a5586b7a9429c4161934d"
+
+[[files]]
+file = "config/jade/hide-blocks.json"
+hash = "42466315033f5d49e8bab6c23c84914e44559d8141b2d43b628cd9482051fb3b"
+
+[[files]]
+file = "config/jade/hide-entities.json"
+hash = "4f11993be4c863e9e7162e2a8bcb301a2bed28b32b47bd39c595b73ad0bc90e7"
+
+[[files]]
+file = "config/jade/jade.json"
+hash = "7753a83ac865572d3b92f647e7f6d910e7045e3d5f7ef653f33e0eaa74e5dfea"
+
+[[files]]
+file = "config/jade/plugins.json"
+hash = "84dececa4ae8bb43c3d084aa21f9328a4ed3810352a9fedd871f08149b1c7bbd"
+
+[[files]]
+file = "config/jade/sort-order.json"
+hash = "b3ad007cc72f0a4d6e2f5b79bbf461eb31c0913c41df4b5a6b8b3025c9b4591c"
+
+[[files]]
+file = "config/jecharacters.toml"
+hash = "14f14763f026ece314bd3caa1302f0910d34d68370b0ea6de27ca59960f2c817"
+
+[[files]]
+file = "config/jei/blacklist.cfg"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/jei/ingredient-list-mod-sort-order.ini"
+hash = "3b764be96c429e9f49cb9f6f1e647dbd85145ae7c18daf27b00b47065359a044"
+
+[[files]]
+file = "config/jei/ingredient-list-type-sort-order.ini"
+hash = "39b5426fb7faf645a83c210d457352b05f64859d4b9adb58242c113c2c8e6878"
+
+[[files]]
+file = "config/jei/jei-client.ini"
+hash = "8c5ae3646c07bfd87fe9259333c2df2b7eb2670cd0c64c21f48f69e0a5629a18"
+
+[[files]]
+file = "config/jei/jei-colors.ini"
+hash = "5f37aacd70460fdc2631ff45e98e8a2ce4e52d3e9a50917edf40eeed1236952e"
+
+[[files]]
+file = "config/jei/jei-debug.ini"
+hash = "ee9bb0f0f8465629951fe9a532f3ebe3327671a12d4cc6395860d7f7494b970b"
+
+[[files]]
+file = "config/jei/jei-mod-id-format.ini"
+hash = "326b4f9b813ca8183bfaeee184cf7248c7a75c4d85b59322e349c0e964c253f3"
+
+[[files]]
+file = "config/jei/recipe-category-sort-order.ini"
+hash = "f07420c28821341c7b85b7dc540b0ab4d83ba871e6e3025bb0731c94e5aca2d8"
+
+[[files]]
+file = "config/sidebar_buttons.json"
+hash = "77682936c4c2e716776753d6fdfaa05a9e1eb95d007164195de940992c0ab709"
+
+[[files]]
+file = "defaultconfigs/ftblibrary/ftblibrary-client.snbt"
+hash = "ab6bcad040f138406197f70cfe9a041832feaddf7e87954d9a5f4b13b6a962f9"
+
+[[files]]
+file = "defaultconfigs/ftbquests/client-config.snbt"
+hash = "4ce84f0da35036f810959086ea1043062993bf34ae704fc9cd4f1a67810090a6"
+
+[[files]]
+file = "defaultconfigs/ftbultimine/ftbultimine-client.snbt"
+hash = "0af4a5c9c743c56273b8594f9bf1f57a4adab850c4ac1356b615750b8bb649c6"
+
+[[files]]
+file = "defaultconfigs/ftbultimine/ftbultimine-server.snbt"
+hash = "92c6cca4eaa7344a07168421f10b43f8122304381048d8b6375b62d67011b67e"
+
+[[files]]
+file = "kubejs/README.txt"
+hash = "050df4dac58ebda30a898e6c65e91cc4f4e15bcd7c2a19b58ab1c05082e36556"
+
+[[files]]
+file = "kubejs/assets/csu/textures/item/id_card.png"
+hash = "7291d3081c8e441724fb48a026a3e4f9f822c48d2983eeb90951332bef978131"
+
+[[files]]
+file = "kubejs/client_scripts/datagen/lang/zh_cn.js"
+hash = "efa56ad4813a1358826005f88045dba0e449b233a74a0abde46a082280a1a8ff"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "090d1d8bdc68b903e27e375e363dd1242af3b6338c8547f9e1fdcbfc4b55edb2"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "8389a3cfd11400bae4e332fff3f4920255f94504ad3f07278621edd5889b7ff4"
+
+[[files]]
+file = "kubejs/config/probejs.json"
+hash = "ee8d1dfd96063c90897c837efc266e20278f07fbb90ad4a8ade1841a76cce96c"
+
+[[files]]
+file = "kubejs/jsconfig.json"
+hash = "20f3331997db95f0c08f6ce6eb7dbb5a3eac0182e08d68407167d3c6e19af772"
+
+[[files]]
+file = "kubejs/startup_scripts/register/custom/creativetab/csu_tab.js"
+hash = "810f437ffc73560fb9a1abce789f15083e50de0d1c169f04be943ea41562737e"
+
+[[files]]
+file = "kubejs/startup_scripts/register/custom/id_card.js"
+hash = "f5871516997814efaa0a8e799a4c517c6bd906ebed742193817a7fc4b6403da7"
+
+[[files]]
+file = "mods/[FTB 团队] ftb-teams-forge-2001.3.1.jar"
+hash = "d6e3cf8d0bdae7f848764428c613ae2528aecf9d275b4169eb8e15da87b41863"
+
+[[files]]
+file = "mods/[FTB任务] ftb-quests-forge-2001.4.13.jar"
+hash = "a4510fb56a4febf548f56a7393a019a9f15a954084dc18da6d4ea79985698b6d"
+
+[[files]]
+file = "mods/[JEI物品管理器] jei-1.20.1-forge-15.20.0.106.jar"
+hash = "e3d8f2c4028fa431368d42bde25b92b2210bddd2e1fb59a932d0c2cc62dd3587"
+
+[[files]]
+file = "mods/[物品过滤器] item-filters-forge-2001.1.0-build.59.jar"
+hash = "99417b1342ba51ccb9611b17ab01fc1299971aa34e8f9d2a8b3c63df5713eb49"
+
+[[files]]
+file = "mods/[犀牛] rhino-forge-2001.2.3-build.10.jar"
+hash = "fed2211429301bf043864183cab9ab8e92d4cc4dbb9e488ce6c75217c54584a6"
+
+[[files]]
+file = "mods/[玉 🔍] Jade-1.20.1-Forge-11.13.1.jar"
+hash = "921996fef486fdc0d03d3e9574698243edb380e118aaa6a59dccd55b1776b32f"
+
+[[files]]
+file = "mods/[连锁破坏] ftb-ultimine-forge-2001.1.5.jar"
+hash = "cc6c93a44da1682671c6ca1f2fbc779f6a48963a4df3030350d1707dd91fb563"
+
+[[files]]
+file = "mods/[通用拼音搜索] jecharacters-1.20.1-forge-4.5.4.jar"
+hash = "08687627793cdc1d7a457b34a49681c11624147980d295d0d91f66ee89dcfe08"
+
+[[files]]
+file = "mods/architectury-9.2.14-forge.jar"
+hash = "218b471d0b8a1f6cda14cfc1beb9eeb0df54304500acc6c5613d9b88ec65d9af"
+
+[[files]]
+file = "mods/ftb-library-forge-2001.2.9.jar"
+hash = "b7d5d19889c485a9746022fdc42f3297aa4d26014559ea0ed35fa7ba816b001d"
+
+[[files]]
+file = "mods/kubejs-forge-2001.6.5-build.16.jar"
+hash = "3de6b7267d3aab981848ed54d3afe7edf20532fa4060631fd6fffcd99ac5f3d5"
+
+[[files]]
+file = "mods/probejs-6.0.1-forge.jar"
+hash = "139b586b87a8bad536e0a8983fc01c48e8ff46fb2e5881b52ac8b59f44b1e609"
