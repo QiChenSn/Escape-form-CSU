@@ -3,7 +3,8 @@ ClientEvents.lang("zh_cn", (event) => {
 
 	let itemResourceLang = {
         "id_card": "校园卡",
-		"zombie_brain":"僵尸之脑"
+		"zombie_brain":"僵尸之脑",
+		"surgical_knife":"手术刀"
     };
 
     // 遍历JSON对象添加翻译

@@ -4,3 +4,5 @@ saves
 logs
 #忽略PCL文件夹的版本控制
 PCL
+#忽略身份验证注入器日志的版本控制
+authlib-injector.log
