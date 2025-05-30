@@ -1,11 +1,13 @@
 ClientEvents.lang("zh_cn", (event) => {
 	const MODID = "csu"
 
-	// 物品翻译
-	let itemResourceLang = [
-		["id_card", "校园卡"]
-	]
-	itemResourceLang.forEach(([key, text]) => {
-		event.add(`item.${MODID}.${key}`, text)
-	})
+	let itemResourceLang = {
+        "id_card": "校园卡",
+		"zombie_brain":"僵尸之脑"
+    };
+
+    // 遍历JSON对象添加翻译
+    Object.entries(itemResourceLang).forEach(([key, text]) => {
+        event.add(`item.${MODID}.${key}`, text);
+    });
 })
