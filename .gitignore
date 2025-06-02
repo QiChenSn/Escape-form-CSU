@@ -6,3 +6,7 @@ logs
 PCL
 #忽略身份验证注入器日志的版本控制
 authlib-injector.log
+#忽略错误日志
+crash-reports
+#忽略用户缓存
+usercache.json

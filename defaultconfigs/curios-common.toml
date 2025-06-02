@@ -1,0 +1,21 @@
+slots = [
+    #模组自带
+        #背饰
+            "id=back;size=5;add_cosmetic=true",
+        #腰带
+            "id=belt;size=5;add_cosmetic=true",
+        #胸饰
+            "id=body;size=5;add_cosmetic=true",
+        #手镯
+            "id=bracelet;size=5;add_cosmetic=true",
+        #护符
+            "id=charm;size=5;add_cosmetic=true",
+        #头饰
+            "id=head;size=5;add_cosmetic=true",
+        #手饰
+            "id=hands;size=5;add_cosmetic=true",
+        #戒指
+            "id=ring;size=5;add_cosmetic=true",
+        #项链
+            "id=necklace;size=5;add_cosmetic=true", 
+]
