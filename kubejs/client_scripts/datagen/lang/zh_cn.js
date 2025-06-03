@@ -14,6 +14,7 @@ ClientEvents.lang("zh_cn", (event) => {
 
 	let blockResourceLang = {//方块翻译
 		"fluid_of_consciousness":"意识流浆液",
+        "brain_in_a_jar":"缸中之脑"
     };
 
     // 遍历JSON对象添加翻译
