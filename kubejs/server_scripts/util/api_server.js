@@ -1,0 +1,1 @@
+const $CuriosApi = Java.loadClass('top.theillusivec4.curios.api.CuriosApi');
