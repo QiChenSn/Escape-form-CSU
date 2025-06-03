@@ -26,14 +26,5 @@ StartupEvents.registry("item",event=>{
         .attackDamageBaseline(4)//伤害基础4
         .attackDamageBonus(2)//伤害加成2
         .speedBaseline(-0.6);//攻速铁到钻石之间【-1,0】
-
-    event.create('csu:quantum_consciousness_resonator')
-        .displayName('量子意识谐振器') // 物品显示名称: 量子意识谐振器
-        .tooltip('§b赋予持有者驾驭虚空之力与物质重构之能。§r') // 物品提示信息
-        .tooltip('§7- 创造飞行§r') // 功能描述：创造飞行
-        .tooltip('§7- 空手速掘§r') // 功能描述：空手速掘
-        .rarity('epic') // 物品稀有度: 史诗
-        .maxStackSize(1) // 最大堆叠数量: 1
-        .tag('curios:head'); // 将物品标记为 head 饰品，可装备在 'head' 槽位
         
 })
